@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Monex Session Refresher",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "マネックス証券のマイページでセッションが切れないように、5分ごとに非同期リクエストを送信します。",
   "content_scripts": [
     {
